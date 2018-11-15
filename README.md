@@ -1,10 +1,7 @@
 # Vehicle Tracking with Speed Control Mobile App
-Task is to design Android/iOS Mobile app which will be able to track the vehicle in real time and implement speed control via alerts/notifications in the app itself. The students may design this app for intended use by Drivers themselves or for monitoring purposes of multiple drivers. Depending on choice of project complexity, extra points will be rewarded.
+ Android/iOS Mobile app which will be able to track the vehicle in real time and implement speed control via alerts/notifications in the app itself. The students may design this app for intended use by Drivers themselves or for monitoring purposes of multiple drivers. Depending on choice of project complexity, extra points will be rewarded.
 
-**Skills Required:** Android/iOS
-
-## Resources to get started
-
+## Resources Used
 
 [Real Time Location Tracking](https://www.youtube.com/watch?v=eYk-gokOyA8)
 
@@ -36,8 +33,3 @@ Task is to design Android/iOS Mobile app which will be able to track the vehicle
 
 [Building Notification](https://developer.android.com/training/notify-user/build-notification)
 
-
-### Senior Mentors for this Project
-
-* [Sparsh Wadhwa](https://github.com/SparshWadhwa)
-* [Deepanshi Bansal](https://github.com/deepanshib)
