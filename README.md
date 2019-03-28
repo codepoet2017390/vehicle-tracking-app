@@ -1,5 +1,5 @@
 # Vehicle Tracking with Speed Control Mobile App
- Android/iOS Mobile app which will be able to track the vehicle in real time and implement speed control via alerts/notifications in the app itself. The students may design this app for intended use by Drivers themselves or for monitoring purposes of multiple drivers. The App is open to Contributions. Please feel free to open issues and close them with pull requests.
+ Android/iOS Mobile app which is able to track the vehicle in real time and implement speed control via alerts/notifications in the app itself. The app is designed for intended use by Drivers themselves or for monitoring purposes of multiple drivers. The App is open to Contributions. Please feel free to open issues and close them with pull requests.
 
 ## Resources Used
 
